@@ -11,6 +11,8 @@ class Declare {
 }
 
 
+
+
 public class privetV {
     public static void main(String[] args) {
         Declare obj = new Declare();
